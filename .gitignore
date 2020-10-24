@@ -1,2 +1,4 @@
 .API_Deploy_venv/
 API_Deploy_venv/
+
+.vercel
